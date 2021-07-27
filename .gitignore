@@ -1,0 +1,7 @@
+django/htmlcov
+django/venv
+django/blog/__pycache__
+django/blog/migrations/__pycache__
+django/blog_api/__pycache__
+django/blog_api/migrations/__pycache__
+django/core/__pycache__
